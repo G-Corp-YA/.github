@@ -36,11 +36,10 @@ Un colectivo de desarrolladores con diferentes especialidades trabajando juntos 
 ## 🛠️ Tecnologías que Usamos
 
 ```yaml
-Frontend: React, Next.js, Vue.js, Tailwind CSS
-Backend: Node.js, Python, Java, Spring Boot
+Frontend: Angular, Next.js, Daisy ui, Tailwind CSS
+Backend: .NET, c#, Java, Spring Boot
 Databases: PostgreSQL, MongoDB, MySQL
 DevOps: Docker, Git, CI/CD
-Cloud: AWS, Azure, Google Cloud
 ```
 
 ## 🌈 ¿Cómo Contribuir?
